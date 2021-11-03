@@ -1,0 +1,4 @@
+﻿  mainfile.cpp
+C:\Users\Kven\Desktop\baruch\courses\CIS9310\assignments\aonat_assignment_6\aonat_assignment_6\mainfile.cpp(171,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Kven\Desktop\baruch\courses\CIS9310\assignments\aonat_assignment_6\aonat_assignment_6\mainfile.cpp(171,9): warning C4101: 'i': unreferenced local variable
+  aonat_assignment_6.vcxproj -> C:\Users\Kven\Desktop\baruch\courses\CIS9310\assignments\aonat_assignment_6\Debug\aonat_assignment_6.exe
